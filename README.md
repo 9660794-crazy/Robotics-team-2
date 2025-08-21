@@ -1,4 +1,4 @@
-# THE KINGS
+Team name is THE KINGS
 
 Our robot name is Food Fight
 

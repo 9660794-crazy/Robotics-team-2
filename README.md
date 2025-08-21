@@ -2,4 +2,4 @@
 
 Our robot name is Food Fight
 
-Our robots purpose is to transport goods and to deliver them to people that would be able to climb sufaces and throw the goods across a short distance
+The robots purpose would be to drive on wheels while holding an object (apple, etc.) and it would be able to throw the object a short distance.

@@ -7,11 +7,11 @@
 #### Member
 Coder: Shunsuke N
 
-Builder: Noah k
+Builder: Noah K
 
-: Grant
+Builder: Grant H
 
-Driver: Liam Greene
+Driver: Liam G
 
 
 Tennis robot

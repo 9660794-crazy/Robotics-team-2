@@ -9,9 +9,10 @@ Coder: Shunsuke N
 
 Builder: Noah k
 
+: Grant
+
 Driver: Liam Greene
 
-Documenter: Grant
 
 Tennis robot
 

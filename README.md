@@ -6,8 +6,11 @@
 
 #### Member
 Coder: Shunsuke N
-Builder: Grant, Liam
-Driver:Noah K
+
+Builder: Noah k
+
+Driver: Liam Greene
+
 Documenter: Grant
 
 Tennis robot

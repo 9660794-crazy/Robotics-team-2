@@ -24,3 +24,4 @@ Tennis is tiring especially when you are out there practicing in the heat. This 
 Bot objectives: Traversal with objects, retreival, and throwing.
 
 Info about robot
+1000006988.jpg

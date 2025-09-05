@@ -24,4 +24,7 @@ Tennis is tiring especially when you are out there practicing in the heat. This 
 Bot objectives: Traversal with objects, retreival, and throwing.
 
 Info about robot
-1000006988.jpg
+
+Parts list: 
+6 5 by 5 part, 4 regular wheels, 4 motors, 1 driveterain, 30x 0.375in bolt, 30x 8-32 nut, 4x 8-32 0.5 in, 6x 1.5in , 
+

@@ -26,5 +26,31 @@ Bot objectives: Traversal with objects, retreival, and throwing.
 Info about robot
 
 Parts list: 
-6 5 by 5 part, 4 regular wheels, 4 motors, 1 driveterain, 30x 0.375in bolt, 30x 8-32 nut, 4x 8-32 0.5 in, 6x 1.5in , 
+2 steel 2x c-bars, 30 units
+2 steel 3x c-bars, 25 units
+5 steel 2x c-bars, 25 units
+3 aluminum 2x c bars, 15 units
+2 aluminum 2x c bars, 10 units
+4 v5 smart motors
+4 traction wheels
+4 axils
+1 v5 robot brain
+1 180 mm v5 power cable
+3 900 mm v5 power cable
+1 600 mm v5 power cable
+1 300 mm power cable
+1 v5 robot batteryu 
+2 v5 batter clips
+5 4-post hex nut
+15 post hex nut retainer with bearing flat
+1 vex net
+vex v5 conttroller
+
+
+
+
+
+
+
+
 

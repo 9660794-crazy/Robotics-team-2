@@ -9,7 +9,7 @@ Coder: Shunsuke N
 
 Builder: Noah K
 
-Builder: Grant H
+Builder/ documenter: Grant H
 
 Driver: Liam G
 
@@ -24,6 +24,8 @@ Tennis is tiring especially when you are out there practicing in the heat. This 
 Bot objectives: Traversal with objects, retreival, and throwing.
 
 Info about robot
+#TO DO
+finish up parts then build
 
 Parts list: 
 2 steel 2x c-bars, 30 units
@@ -45,6 +47,7 @@ Parts list:
 15 post hex nut retainer with bearing flat
 1 vex net
 vex v5 conttroller
+
 
 
 

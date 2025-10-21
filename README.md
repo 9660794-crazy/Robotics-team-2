@@ -51,7 +51,8 @@ vex v5 conttroller
 Next parts list for intake system
 add ons
 
-
+Starter 10/21 Noah kergaye
+i was member C and i contributed a lot to the team with my ideas and I helped to adjust our robot accordingly.
 
 
 

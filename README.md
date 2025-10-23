@@ -58,6 +58,8 @@ Shun: was member D and aided in building, he will implement code when the motors
 Grant hersey: 
 
 Starter 10/23 Phase 2
+
+Liam Greene: I finished the sketch and helped build and get parts.
 Noah kergaye: I did lots of building and rtaking apart with our robot shun assisted me in doing so and together we were able to come up with a sufficient design for our robot and our intake system.
 
 

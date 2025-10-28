@@ -70,7 +70,11 @@ Liam Greene: I finished the sketch and helped build and get parts (All in the re
 
 Noah kergaye: I did lots of building and rtaking apart with our robot shun assisted me in doing so and together we were able to come up with a sufficient design for our robot and our intake system.
 
-
+Starter Phase 3 oct 28
+Noah kergaye: I did lots of buidling with my assisstant shunsuke and we made our intake system and attached the motors to our robot I also took a few photos of the bot in order for a good visualization.
+Liam Greene was not here
+Shunsuke: I did lots of coding and building with my Master Noah we attahced the motor and designed and planned out our intake system, the code was kind of hard but I got it with the hep of my saviour Noah.
+Grant hershey: i documented and took a few photos for the repo I also helped my Master noah in builiding a lot, this one goes out to you Noah.
 
 
 

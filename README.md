@@ -53,14 +53,21 @@ add ons
 
 Starter 10/21 Phase 1
 Noah kergaye: i was member C and i contributed a lot to the team with my ideas and I helped to adjust our robot accordingly.
-Liam Greene: I was member A and planned the future for our bot and sketched it out. Grant helped me with as member B and we also started building a google doc with future plans and potential tests etc.
+
+Liam Greene: I was member A and planned the future for our bot and sketched it out.
+Grant helped me with as member B and we also started building a google doc with future plans and potential tests etc.
+
 Shun: was member D and aided in building, he will implement code when the motors are set.
 
 Starter 10/23 Phase 2
-Noah kergaye: I did lots of building and rtaking apart with our robot shun assisted me in doing so and together we were able to come up with a sufficient design for our robot and our intake system.\
+Noah kergaye: I did lots of building and rtaking apart with our robot shun assisted me in doing so and together we were able to come up with a sufficient design for our robot and our intake system.
+
 Shunsuke: i helped Noah create our robots intake design and did lots of work cause Im so amazing I also helped gather aprtsw and did lots of major coding in order for our intake system to work.
+
 Grant Hersey: I gather the part neccicary to build the suopports for the storage system, I also helped Atched the supports. I also added a few pictures of our robot in the repo.
+
 Liam Greene: I finished the sketch and helped build and get parts (All in the repo image files)
+
 Noah kergaye: I did lots of building and rtaking apart with our robot shun assisted me in doing so and together we were able to come up with a sufficient design for our robot and our intake system.
 
 

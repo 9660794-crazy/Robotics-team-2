@@ -76,6 +76,6 @@ Liam Greene was not here
 Shunsuke: I did lots of coding and building with Noah we attahced the motor and designed and planned out our intake system, the code was kind of hard but I got it.
 Grant Hersey: I documented and took a few photos for the repo I also helped noah in builiding a lot.
 
-
+Grant Hersey: I added photos from all stages of the robot to the repo and helped complete the intake system as well as got started on the contanment system for the tennis balls.
 
 

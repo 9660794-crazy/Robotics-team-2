@@ -81,3 +81,4 @@ Starter Phase 4 Oct 30
 Grant Hersey: I added photos from all stages of the robot to the repo and helped complete the intake system as well as got started on the contanment system for the tennis balls.
 Liam Greene: I helped plan out future plans and Ideas. I talked through future plans about implementing a flap to allow tennis balls to be pulled in and shot out. I also put away parts to tidy up our box and I grabbed new parts to hold the box.
 Noah: I helped build the bot and implementend the new motor into the code with Shun. 
+Shunsuke: we successfluly added theintake sysytem for the bot, we also made some progess in the containment system for the tennis balls. Also made new code for the bot.

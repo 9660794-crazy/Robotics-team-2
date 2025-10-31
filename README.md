@@ -72,9 +72,10 @@ Noah kergaye: I did lots of building and rtaking apart with our robot shun assis
 
 Starter Phase 3 oct 28
 Noah kergaye: I did lots of buidling with my assisstant shunsuke and we made our intake system and attached the motors to our robot I also took a few photos of the bot in order for a good visualization.
-Liam Greene was not here- very sick
+Liam Greene was not here- very sick. While at home he took measurements for the tennis balls and looked for bins to use as a storgae mechanism.
 Shunsuke: I did lots of coding and building with Noah we attahced the motor and designed and planned out our intake system, the code was kind of hard but I got it.
 Grant Hersey: I documented and took a few photos for the repo I also helped noah in builiding a lot.
+
 
 
 Starter Phase 4 Oct 30
@@ -82,3 +83,11 @@ Grant Hersey: I added photos from all stages of the robot to the repo and helped
 Liam Greene: I helped plan out future plans and Ideas. I talked through future plans about implementing a flap to allow tennis balls to be pulled in and shot out. I also put away parts to tidy up our box and I grabbed new parts to hold the box.
 Noah: I helped build the bot and implementend the new motor into the code with Shun. 
 Shunsuke: we successfluly added theintake sysytem for the bot, we also made some progess in the containment system for the tennis balls. Also made new code for the bot.
+
+
+Phase 4 continued Oct. 31st. 
+We were not ready to test today, but we improvede our bot greatly and it is nearly ready for testing.
+Liam Greene: I built the ramp to shoot the balls from the intake system into the container, I also helped in testing our bot to see if it was ready. we could do phase 1 and 2 but not 3 and 4. The ball would roll out while driving, so that is what we will fix next time.
+Noah kergaye: I finished adding the wheel system and made sure it was the correct height. The wheel system works, but isnt quite strong enough, so I tried to build a cog/ gear mechansim to slowly push it up, Shun helped me with this.
+Shunsuke Nakao: I aided Noah and Liam in building and I was able to fix the tank drive system and code the new motors and assign them buttons for the drive system.
+Grant Hersey: Not here, at Football.

@@ -103,6 +103,8 @@ Shunsuke Nakao: I aided Noah and Liam in building and I was able to fix the tank
 
 Grant Hersey: Not here, at Football.
 
+Phase 4 continued Nov 4
+
 Shunsuke Nakao:I properly coded the intake sytem so it can be turned off and on as neededas well as be reverced, I also helped build
 
 Liam Greene: I helped both Noah and Shunsuke futher build the building proccess and coded a little as well.

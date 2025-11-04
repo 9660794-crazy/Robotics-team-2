@@ -102,3 +102,11 @@ Noah kergaye: I finished adding the wheel system and made sure it was the correc
 Shunsuke Nakao: I aided Noah and Liam in building and I was able to fix the tank drive system and code the new motors and assign them buttons for the drive system.
 
 Grant Hersey: Not here, at Football.
+
+Shunsuke Nakao:I properly coded the intake sytem so it can be turned off and on as neededas well as be reverced, I also helped build
+
+Liam Greene: I helped both Noah and Shunsuke futher build the building proccess and coded a little as well.
+
+Noah Kergaye: I finished the intake and helped make it campatable with the code
+
+Grant Hersey: I edited the repo adding images and helped with the building and coding.

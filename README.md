@@ -112,3 +112,13 @@ Liam Greene: I helped both Noah and Shunsuke futher build the building proccess 
 Noah Kergaye: I finished the intake and helped make it campatable with the code
 
 Grant Hersey: I edited the repo adding images and helped with the building and coding.
+
+Phase 4 continued Nov 6
+
+Shunsuke Nakao: I helped fix the bot and helped further fix the code that went with it.
+
+Liam Greene: I helped fix the bot and drove during the competition that we did in class.
+
+Noah Kergaye: I helped fix and finish up with the bot and made it ready for the competition.
+
+Grant Hersey: I also helped fix the broken axle and added more imeges to the repo.

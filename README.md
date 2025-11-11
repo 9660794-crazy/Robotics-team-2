@@ -122,3 +122,14 @@ Liam Greene: I helped fix the bot and drove during the competition that we did i
 Noah Kergaye: I helped fix and finish up with the bot and made it ready for the competition.
 
 Grant Hersey: I also helped fix the broken axle and added more imeges to the repo.
+
+
+Phase 5 - Capture the Flag
+
+Shunsuke Nakao:
+
+Liam Greene:
+
+Noah Kergaye:
+
+Grant Hersey: I added more photos the the repo as well as helping noah ajust the intake system adn made it more cosistent.

@@ -126,10 +126,10 @@ Grant Hersey: I also helped fix the broken axle and added more imeges to the rep
 
 Phase 5 - Capture the Flag
 
-Shunsuke Nakao:
+Shunsuke Nakao: I brainstormed with Liam and we were able to stabilize the system for capture the flag, and we researched and got the sensor we needed.
 
-Liam Greene:
+Liam Greene: Shun helped me build and we were able to finish up the carrier ledge that would drop the balls into the box, and we stabilized the ramp and the rest of the bot.
 
-Noah Kergaye:
+Noah Kergaye: I made sure all the stuff was charged and finished up the ramp and intake system, so the grinding noise stopped.
 
-Grant Hersey: I added more photos the the repo as well as helping noah ajust the intake system adn made it more cosistent.
+Grant Hersey: I added more photos the the repo and updated the repo.

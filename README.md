@@ -124,7 +124,7 @@ Noah Kergaye: I helped fix and finish up with the bot and made it ready for the 
 Grant Hersey: I also helped fix the broken axle and added more imeges to the repo.
 
 
-Phase 5 - Capture the Flag
+Phase 5 - Capture the Flag 11/11 2025
 
 Shunsuke Nakao: I brainstormed with Liam and we were able to stabilize the system for capture the flag, and we researched and got the sensor we needed.
 

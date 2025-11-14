@@ -136,4 +136,4 @@ Grant Hersey: I added more photos the the repo and updated the repo and helped w
 
 Phase 5 - Capture the Flag 11/14 2025
 
-
+We all competed today in the game of cature the flag, however we ran out of time before a final winner could be crowned. We will continue the challenge on tuesday of next week.

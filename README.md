@@ -132,4 +132,8 @@ Liam Greene: Shun helped me build and we were able to finish up the carrier ledg
 
 Noah Kergaye: I made sure all the stuff was charged and finished up the ramp and intake system, so the grinding noise stopped.
 
-Grant Hersey: I added more photos the the repo and updated the repo.
+Grant Hersey: I added more photos the the repo and updated the repo and helped with building.
+
+Phase 5 - Capture the Flag 11/14 2025
+
+

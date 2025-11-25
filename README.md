@@ -144,3 +144,8 @@ We all competed today in the game of cature the flag, however we ran out of time
 Phase 5 - Capture the Flag 11/18 2025
 
 We will continue capture the flag today with the hope that we are victorious
+
+
+VEX V5 Sensor Integration
+Step 1. We chose a bumper switch, the use qwould be for it to detect whenever a ball rolls over it, so the bot will run until it picks up the ball limit 
+Step 2.

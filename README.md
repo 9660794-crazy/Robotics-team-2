@@ -144,8 +144,10 @@ We all competed today in the game of cature the flag, however we ran out of time
 Phase 5 - Capture the Flag 11/18 2025
 
 We will continue capture the flag today with the hope that we are victorious
+We lost our first, then won out, then lost in the championship
 
 
 VEX V5 Sensor Integration
+Plan: We have a few ideas on how to do this. The main one is to remove the back ramp and replace it with a little ledge with a slot for our sensor. This would allow our bot to detect how many balls get picked up. To test this we would have our bot run until 5 balls drop into the box, then we woukld have the bot stop, or ideally return to us.
 Step 1. We chose a bumper switch, the use qwould be for it to detect whenever a ball rolls over it, so the bot will run until it picks up the ball limit 
 Step 2.

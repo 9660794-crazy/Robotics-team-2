@@ -155,4 +155,10 @@ Step 2.
 Thanks Giving Break
 
 Phase 6- Sensor Intergration
+
 We have chosen the a pressure sensor for this phase. Our plan for this is to place the sensor under the slope where the balls are held, Once the amount of balls has backed up enough to reach the sensor we will be able to sense this and the bot will atomaticly turn off the intake system.
+
+12/2/25
+Today we all worked on implamenting the sensor on to the bot and we got the code done for the sensor.
+
+

@@ -151,3 +151,8 @@ VEX V5 Sensor Integration
 Plan: We have a few ideas on how to do this. The main one is to remove the back ramp and replace it with a little ledge with a slot for our sensor. This would allow our bot to detect how many balls get picked up. To test this we would have our bot run until 5 balls drop into the box, then we woukld have the bot stop, or ideally return to us.
 Step 1. We chose a bumper switch, the use qwould be for it to detect whenever a ball rolls over it, so the bot will run until it picks up the ball limit 
 Step 2.
+
+Thanks Giving Break
+
+Phase 6- Sensor Intergration
+Wh have chosen the a pressure sensor for this phase. Our plan for this is to place the sensor under the slope where the balls are held, Once the amount of balls has backed up enough to reach the sensor we will be able to sense this and the bot will atomaticly turn off the intake system.
